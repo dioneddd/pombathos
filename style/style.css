@@ -1,5 +1,4 @@
 body {
-    padding-top: 16px;
     background-color: rgb(224, 224, 233);
     
     display: flex;
@@ -20,11 +19,16 @@ body {
     height: 290px;
 }
 
-#lblContato { margin-top: auto;
+#lblContato {
+    margin-top: auto;
     text-align: center;
     padding: 10px;
 }
 
 #imgTextura {
     height: 282px;
+}
+
+#divMenu {
+    padding-top: 5px;
 }
